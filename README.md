@@ -49,3 +49,9 @@ Prihlasovanie na ponuku = activity diagram - ? - nezachytila som co povedal <br 
 
 ~~Upravenie ponuky= ericsonn diagram - doplnik aktera spolujazda, information bude resources, chyba ciel - napr spokojnost pouzivatelov <br />~~
 Upravenie ponuky = activity diagram - ? - nezachytila som co povedal <br /><br />
+
+******************** INFO K APPKE *********************************
+Udaje ktore zada:
+- pouzivatel: Meno, priezvisko, email a telefon (overuje sa kodom), pouzivatelske meno, heslo, datum narodenia (musi mat 18r), trvaly pobyt, scan OP z ktoreho sa vyberie cislo OP a udaje ktore sa porovnaju s tymi co zadal pouzivatel (meno, priezvisko, datum narodenia, trvaly pobyt)
+- sofer: scan vodicskeho, platnost VP, 
+- vozidlo: SPZ (overuje sa STK), 5fotografii vozidla, vykon motora, vyrobca, model, ci je majitelom vozidla (ak nie tak potvrdenie od majitela napr ak manzelka atd.), max pocet miest (aj s vodicom), najazdenych km

@@ -2,6 +2,13 @@
 
 https://www.youtube.com/playlist?list=PLE0e2tyElyE8jpNQQbt5BjtnOhdnFRsDm
 
+cviko 7: <br /> 
+Sekvencny diagram: <br /> 
+- pouzivatel nie je sucast systemu - dat prec <br />
+- to ze bude pouzivatel nieco kontrolovat - dat prec <br />
+- spravca je control, pouzivatel entita (ma sa nachadzat v diagrame tried) <br />
+- specializovat spravcu (spravca pouzivatelov...) <br /><br /> 
+
 cviko 6: <br />
 
 - Analyticky model tried - ~~"aplikacia" - zrusit~~ <br />

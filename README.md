@@ -2,6 +2,11 @@
 
 https://www.youtube.com/playlist?list=PLE0e2tyElyE8jpNQQbt5BjtnOhdnFRsDm
 
+cviko 8: <br /> 
+UI: <br /> 
+UI01 registrcia - pouzit trace alebo use... <br />  
+UI02 - auto - vybrat z comboboxu (zoznam soferovych aut) <br /> <br /> 
+
 cviko 7: <br /> 
 Sekvencny diagram: <br /> 
 - pouzivatel nie je sucast systemu - dat prec <br />

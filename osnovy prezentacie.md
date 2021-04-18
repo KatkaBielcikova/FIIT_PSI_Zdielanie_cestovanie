@@ -1,5 +1,5 @@
-tim 1
--zamer - specifikacia
+tim 1 
+- zamer
 - biznis procesny model (procesy procesov)
 - opis jedneho z biznis procesov
 - aktivity diagram k danemu procesu
@@ -14,7 +14,7 @@ tim 1
 - graficke pouzivatelske rozhranie
 - Zhodnotenie - co system poskytuje
 
-tim 2
+tim 2:
 - uvod
 - biznis procesny model
 - aktivity diagram k jednemu procesu
@@ -29,8 +29,8 @@ tim 2
 - sekvencny diagram
 - UI
 
-Nasa osnova so far:
--zamer - specifikacia
+Nasa osnova so far: 
+- zamer
 - opis jedneho z biznis procesov
 - aktivity diagram k 2 procesom
 - domenovy model
